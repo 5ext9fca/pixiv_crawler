@@ -1,7 +1,7 @@
 PROXY: str = 'http://127.0.0.1:1081'
 
-USER_ID: int = 44898022
-X_USER_ID: str = '71413581'
+USER_ID: int = None
+X_USER_ID: str = None
 
 BASE_URL: str = 'https://www.pixiv.net'
 INDEX_URL: str = BASE_URL + '/ajax/top/illust'
